@@ -17,4 +17,5 @@ Antes de ejecutar el script, asegúrate de instalar las
 dependencias necesarias utilizando el siguiente comando:
 
 ```bash
-pip install -r requirements.txt
+pip install tqdm==4.661
+pip install scapy==2.5.0
